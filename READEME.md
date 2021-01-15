@@ -1,4 +1,4 @@
 # merge-conflicts
 This is a README file.
 
-This statement is added by dev A.
+This statement is added by developer A.
